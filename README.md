@@ -79,7 +79,7 @@ To use this project, clone the repository and set up the environment as follows:
 
 1. **Clone the Repository**:
     ```bash
-    https://github.com/Imran-ml/Copy-Kaggle-Data-to-Google-Cloud-Services.git
+    https://github.com/Imran-ml/Python-Tutorial-for-Beginners.git
     ```
 2. **Setup the Environment**:
     - Navigate to the project directory and activate the virtual environment.
@@ -96,7 +96,7 @@ This project is made available under the MIT License.
 
 ## Conclusion
 
-In conclusion, this notebook has provided a detailed walkthrough on transferring Kaggle datasets to Google Cloud Services, aimed at enhancing your data projects with the scalability and efficiency of cloud computing. I hope you find this guide valuable for seamlessly integrating these powerful platforms into your workflow.
+I hope this tutorial has served as a comprehensive introduction to Python and the numpy library, providing you with a solid foundation in these essential tools for programming across a variety of applications. From basic Python constructs and data types to advanced array operations and data visualization with matplotlib, this guide aims to equip you with the knowledge and skills to tackle your next project with confidence. Whether you're venturing into web development, data science, AI, or any other field where Python shines, the concepts and techniques covered here will be invaluable. I encourage you to experiment with the examples, explore further, and continue your learning journey in Python programming. Happy coding!
 
 ## About Author
 
@@ -107,4 +107,4 @@ In conclusion, this notebook has provided a detailed walkthrough on transferring
     - LinkedIn: [Profile](linkedin.com/in/muhammad-imran-zaman)
     - Google Scholar: [Profile](https://scholar.google.com/citations?user=ulVFpy8AAAAJ&hl=en)
     - YouTube: [Channel](https://www.youtube.com/@consolioo)
-- **Project Repository**: [GitHub Repo](https://github.com/Imran-ml/Copy-Kaggle-Data-to-Google-Cloud-Services.git)
+- **Project Repository**: [GitHub Repo](https://github.com/Imran-ml/Python-Tutorial-for-Beginners.git)
